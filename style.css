@@ -1,0 +1,40 @@
+#app {
+    margin: 0 25px;
+}
+
+#todo-title{
+    border: 5px;
+    border-style: dashed;
+    text-align: center;
+}
+
+#todo-subtitle{
+    text-align: center;
+    text-decoration: underline;
+    font-size: large;
+    font-style: italic;
+    color: royalblue;
+}
+
+
+/* section{
+    width: 100%;
+} */
+#todo-input{
+    width: 72%;
+    margin-left: 20px;
+}
+
+#todo-submit{
+    width: 20%;
+}
+
+li {
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin: 10px 10px;
+    width: 40vh;
+    border-color: #000;
+    background-color: gray;
+    color: white;
+}
